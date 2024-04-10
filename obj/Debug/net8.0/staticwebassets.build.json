@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "RK4AAnRY7LrMUjBbUWu0bushvfZjJ0SgioRcZgdwFdI=",
+  "Source": "YelpProject",
+  "BasePath": "_content/YelpProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "YelpProject\\wwwroot",
+      "Source": "YelpProject",
+      "ContentRoot": "C:\\Users\\Diego\\Desktop\\Examen\\YelpProject\\wwwroot\\",
+      "BasePath": "_content/YelpProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Diego\\Desktop\\Examen\\YelpProject\\wwwroot\\index.html",
+      "SourceId": "YelpProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Diego\\Desktop\\Examen\\YelpProject\\wwwroot\\",
+      "BasePath": "_content/YelpProject",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Diego\\Desktop\\Examen\\YelpProject\\wwwroot\\scripts.js",
+      "SourceId": "YelpProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Diego\\Desktop\\Examen\\YelpProject\\wwwroot\\",
+      "BasePath": "_content/YelpProject",
+      "RelativePath": "scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts.js"
+    },
+    {
+      "Identity": "C:\\Users\\Diego\\Desktop\\Examen\\YelpProject\\wwwroot\\styles.css",
+      "SourceId": "YelpProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Diego\\Desktop\\Examen\\YelpProject\\wwwroot\\",
+      "BasePath": "_content/YelpProject",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
